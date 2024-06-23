@@ -13,22 +13,22 @@ const Header = () => {
         <h3>Fauki Rijatul H</h3>
         <p>Programmer - Web Developer - Learner</p>
         <div className="socialMedia">
-          <a href="">
+          <a href="https://www.linkedin.com/in/fauki-rijatul-h-9a93ab251/" target="_blank" rel="noopener noreferrer">
             <SlSocialLinkedin />
           </a>
-          <a href="">
+          <a href="https://github.com/faukiofficial" target="_blank" rel="noopener noreferrer">
             <FaGithub />
           </a>
-          <a href="">
+          <a href="https://www.instagram.com/faukiofficial/" target="_blank" rel="noopener noreferrer">
             <FaInstagram />
           </a>
-          <a href="">
+          <a href="https://facebook.com/faukiofficial" target="_blank" rel="noopener noreferrer">
             <FiFacebook />
           </a>
-          <a href="">
+          <a href="https://x.com/faukiofficial" target="_blank" rel="noopener noreferrer">
             <FaXTwitter />
           </a>
-          <a href="">
+          <a href="https://wa.me/6287845352397" target="_blank" rel="noopener noreferrer">
             <FaWhatsapp />
           </a>
         </div>
