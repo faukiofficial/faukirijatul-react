@@ -1,5 +1,5 @@
 import "../styles/Header.css";
-import profilePicture from "../assets/profile-picture.png";
+import profilePicture from "../assets/profile.jpg";
 import { FaInstagram, FaWhatsapp } from "react-icons/fa";
 import { FaXTwitter, FaGithub } from "react-icons/fa6";
 import { FiFacebook } from "react-icons/fi";
@@ -9,7 +9,7 @@ const Header = () => {
   return (
     <header>
       <div className="header-jumbotron">
-        <img src={profilePicture} alt="" />
+        <img className="profile" src={profilePicture} alt="profile" />
         <h3>Fauki Rijatul H</h3>
         <p>Programmer - Web Developer - Learner</p>
         <div className="socialMedia">

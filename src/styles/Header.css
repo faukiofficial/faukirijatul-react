@@ -20,8 +20,9 @@ header {
   flex-direction: column;
   text-align: center;
 }
-.header-jumbotron > img {
-  width: 150px;
+.header-jumbotron > .profile {
+  width: 200px;
+  border-radius: 50%;
 }
 .header-jumbotron > h3 {
   color: #fff;
